@@ -1,2 +1,4 @@
 # Data-science-and-Machine-learning-projects
-print('hello world')
+Kaggle Project :Google Analytics Customer Revenue Prediction: Predict how much GStore customers will spend
+Aim: Predict how much GStore customers will spend
+
