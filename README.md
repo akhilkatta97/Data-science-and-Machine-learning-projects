@@ -15,8 +15,8 @@ Then, filling the null values of output column ( totals.transactionRevenue ) wit
 
 Then, the columns with null values are filled with 0. And, since the Machine learning algorithms only take int,float or boolean values as input, the categorical columns have to be mapped to particular values using Label Encoding.
 
-Then, correlate the dataset and plot the Heatmap to check for features ( columns ) that are having high correlation, as we donot want any dependent features. The features, visitStarttime and visitId have high correlation and hence one of them is dropped
-.
+Then, correlate the dataset and plot the Heatmap to check for features ( columns ) that are having high correlation, as we donot want any dependent features. The features, visitStarttime and visitId have high correlation and hence one of them is dropped.
+
 Exploratory data analysis part:
 
 Then, some Exploratory data analysis using Visualization to find any patterns or trends. There is significant insights that can be derived from these visualizations.
