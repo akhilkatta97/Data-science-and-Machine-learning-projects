@@ -40,7 +40,7 @@ Import the testv2.csv data and apply same transformations as trainv2.csv data. T
 
 Then, take log inverse and sum revenue values with respect to unique fullvisitorid and then take log(x+1) to get the final output.
 
-Save the dataframe with fullvisitorid and predictedlogrevenue columns.
+Save the dataframe with fullvisitorid and predictedlogrevenue as columns.
 
 
 
