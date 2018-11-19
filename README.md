@@ -5,7 +5,7 @@ Aim:  Predict how much GStore customers will spend
 
 Libraries used :  Numpy, Pandas, Json, Matplotlib, seaborn, Sklearn
 
-Language :  Python
+Language used :  Python
 
 Steps:
 
