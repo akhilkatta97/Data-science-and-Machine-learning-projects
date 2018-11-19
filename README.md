@@ -7,7 +7,7 @@ Libraries used : Numpy,Pandas,Json,Matplotlib,seaborn,Sklearn
 
 Steps:
 
-Firstly, the given trainv2.csv data has nested dictionaries as values in columns and hence it is not accessible by reading it as pandas csv file. Therefore, we are flattening the nested Json columns and taking the data in chunks of 100,000 entries at a time as it is a huge data to import at once.
+Firstly, the given trainv2.csv data has nested dictionaries as values in columns and hence it is not accessible by reading it as pandas csv file. Therefore, we are flattening the nested Json columns and taking the data in chunks of 100,000 entries at a time as it is a huge data ( 17,08,337 entries ) to import at once.
 
 Then, after the data has been imported we are checking the DataFrame and the info, then we are finding the percentage of null/NaN values in the entire dataset.
 
